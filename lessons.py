@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 24 17:38:40 2022
-
-@author: FF246WR
-"""
-
 # =============================================================================
 # menu = ['osh', 'manti', 'shashlik', 'norin', 'tandir']
 # orders = ['osh', 'somsa', 'manti', 'baliq']
