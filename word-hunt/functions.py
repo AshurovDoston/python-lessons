@@ -29,6 +29,7 @@ def play():
         letter = input("Harfni kirill alifbosida kiriting: ").upper()
         if letter in user_letters:
             print("Bu harfni oldin kiritgansiz.")
+            continue
         elif letter in word:
             word_letters.remove(letter)
             print(f"{letter} harfi to'g'ri.")
